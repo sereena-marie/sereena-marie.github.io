@@ -1,7 +1,9 @@
 body {
   background-color: black;
 }
-
+ {
+  border-style: solid;
+  border-color: #8dff03;
 h1 {
   color: white;
   text-align: center;
