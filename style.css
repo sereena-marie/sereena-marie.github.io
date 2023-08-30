@@ -1,16 +1,17 @@
-body {
+ body{
+  border: 5px outset #8dff03;
   background-color: black;
-}
- {
-  border-style: solid;
-  border-color: #8dff03;
-h1 {
-  color: white;
   text-align: center;
 }
 
+h1{
+  color: white;
+  text-align: center;
+  font-family: papyrus;
+}
+
 p {
-  font-family: copperplate;
-  color: white
+  font-family: helvetica;
+  color: white;
   font-size: 20px;
 }
